@@ -1,0 +1,8 @@
+<meta>
+    <info author="Mini-Me" type="map" name="RcCars" description="Provides RC cars using RcMode resource." />
+    <include resource="RcMode" />
+    <script src="server.lua" />
+    <script src="client.lua" type="client" protected="true" />
+    <map src="RcCars.map" />
+    <file src="door.col" />
+</meta>
