@@ -1,5 +1,4 @@
 <map>
-    <!-- <object id="garagedoor" posX="189.19999694824" posY="1931.8000488281" posZ="18" rotX="0" rotY="0" rotZ="0" model="9823" interior="0" dimension="3" doublesided="false" /> -->
     <object id="garagedoor" posX="189.19999694824" posY="1931.8000488281" posZ="17.85" rotX="0" rotY="0" rotZ="90" model="2957" interior="0" dimension="3" doublesided="false" />
     <colcube id="garage_colshape" posX="188.89999389648" posY="1930.5" posZ="16.60000038147" height="2.1" width="4.8" depth="2" interior="0" dimension="3" />
     <marker id="marker" type="cylinder" color="#FFFFFF99" size="1" interior="0" dimension="3" posX="212.80000305176" posY="1822.8000488281" posZ="5.5" rotX="0" rotY="0" rotZ="0"></marker>    
