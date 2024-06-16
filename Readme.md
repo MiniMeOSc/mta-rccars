@@ -1,0 +1,2 @@
+# MTA RC Cars
+**MTA RC Cars** is a resource for [Multi Theft Auto](https://multitheftauto.com) that adds the rc cars from singleplayer to the game. They can be used by entering a marker in the command room of Area 69. It utilizes the [MTA RC Mode](https://github.com/MiniMeOSc/mta-rcmode) for simulating remote controlling the cars.
